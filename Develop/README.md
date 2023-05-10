@@ -9,31 +9,28 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ```
 
 
-## Acceptance Criteria
+## Description
 
 ```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+The portfolio presented with popular monokai theme IDE colors, with the developer's name, 
+a recent photo or avatar, and links to sections about them, their work, and how to contact them
+When click one of the links in the navigation the UI scrolls to the corresponding section. 
+When click on the link to the section contact following links redirect to the next source.
+The page is resizeble and view the site on various screens and devices with a responsive layout 
+that adapts to some viewports.
 ```
 
+## Gitpage reference
+
+https://secretariuss.github.io/professional-portfolio/Develop/
 
 ## Screen shots
 
 The following scrshots shows the web application's:
 
+![iPhone scrshot1](./assets/images/iphone1.PNG)
+![iPhone scrshot2](./assets/images/iphone2.PNG)
+
 ![>768px scrshot](./assets/images/site1.png)
 ![767px scrshot](./assets/images/site2.png)
 ![400px scrshot](./assets/images/site3.png)
-
-## Gitpage reference
