@@ -178,9 +178,9 @@ nav a:hover {
   border: 1px dashed var(--white);
 }
 
-.work-pkt:last-child {
+/* .work-pkt:last-child {
   flex-basis: 97%;
-}
+} */
 
 .work-pkt:nth-child(even) h4 {
   color: var(--orange);
